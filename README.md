@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  HardHacker Theme for VSCode
+  HardHacker Theme for Windows Terminal
 </h1>
 
 ![Windows Terminal](screenshots/preview.png)
